@@ -30,7 +30,7 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: University of Lorraine, France
+      institution: Inria, Loria, University of Lorraine, France
       year: 2020
     - course: MEng in Signal & Image Processing, Communication Systems, Multimedia
       institution: Grenoble Institute of Technology
@@ -43,7 +43,7 @@ role: Computer Vision Researcher
 highlight_name: true
 title: Vincent Gaudillière
 first_name: Alice
-email: ""
+email: vincent.gaudilliere@uni.lu
 ---
 I am Research Associate at SnT, Interdisciplinary Center for Security, Reliability and Trust, University of Luxembourg. My research interests include visual localization, pose estimation and geometric deep learning. I am member of the Computer Vision, Imaging and Machine Intelligence Research Group (CVI2), in which part of my work is dedicated to space applications.
 {style="text-align: justify;"}
