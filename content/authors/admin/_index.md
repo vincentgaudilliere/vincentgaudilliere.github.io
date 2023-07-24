@@ -22,9 +22,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/vincent-gaudilliere-b7965182
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 organizations:
   - name: SnT, University of Luxembourg
     url: https://cvi2.uni.lu/
