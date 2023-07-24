@@ -5,7 +5,8 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+#    link: /#contact
+    link: mailto:vincent.gaudilliere@uni.lu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CvGaudilliere
@@ -15,12 +16,12 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=izegIRsAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/vincentgaudilliere
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/vincentgaudilliere
   - icon: linkedin
     icon_pack: fab
-    link: https://lu.linkedin.com/in/vincent-gaudilliere-b7965182
+    link: www.linkedin.com/in/vincent-gaudilliere-b7965182
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
