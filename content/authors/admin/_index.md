@@ -39,12 +39,12 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Gaudillière
 role: Computer Vision Researcher
 highlight_name: true
 title: Vincent Gaudillière
-first_name: Alice
-email: ""
+first_name: Vincent
+email: "vincent.gaudilliere@uni.lu"
 ---
 I am Research Associate at SnT, Interdisciplinary Center for Security, Reliability and Trust, University of Luxembourg. My research interests include visual localization, pose estimation and geometric deep learning. I am member of the Computer Vision, Imaging and Machine Intelligence Research Group (CVI2), in which part of my work is dedicated to space applications.
 {style="text-align: justify;"}
