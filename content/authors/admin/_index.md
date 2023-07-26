@@ -33,11 +33,11 @@ education:
     - course: PhD in Computer Science
       institution: Inria, France #, Loria, University of Lorraine, France
       year: 2020
-    - course: Exchange Semester
-      institution: EPFL, Switzerland
-      year: 2016
     - course: MEng in Signal & Image Processing, Communication Systems, Multimedia
       institution: Grenoble Institute of Technology, France
+      year: 2016
+    - course: Exchange Semester
+      institution: EPFL, Switzerland
       year: 2016
 superuser: true
 status:
