@@ -34,7 +34,7 @@ education:
       institution: Inria, Loria, University of Lorraine, France
       year: 2020
     - course: MEng in Signal & Image Processing, Communication Systems, Multimedia
-      institution: Grenoble Institute of Technology, France / EPFL, Switzerland
+      institution: Grenoble Institute of Technology, France & Swiss Federal Institute of Technology - EPFL, Switzerland
       year: 2016
 superuser: true
 status:
