@@ -60,13 +60,14 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
-      - title: Master Thesis / Work placement
-        company: PIX4D
-        company_url: https://www.pix4d.com/
-        company_logo: pix4d
-        date_start: '2016-02-01'
-        date_end: '2016-07-15'
-        description: GPU-Accelerated Large Scale Surface Reconstruction
+        - title: Master Thesis / Work placement
+          company: PIX4D
+          company_url: https://www.pix4d.com/
+          company_logo: pix4d
+          location: Lausanne, Switzerland
+          date_start: '2016-02-01'
+          date_end: '2016-07-15'
+          description: GPU-Accelerated Large Scale Surface Reconstruction
     design:
       columns: '2'
 #  - block: accomplishments
