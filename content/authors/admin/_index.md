@@ -13,8 +13,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar # graduation-cap
+    icon_pack: ai # fas
     link: https://scholar.google.com/citations?user=izegIRsAAAAJ
 #  - icon: github
 #    icon_pack: fab
@@ -25,6 +25,15 @@ social:
 #  - icon: cv
 #    icon_pack: ai
 #    link: uploads/resume.pdf
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-6498-7823
+  - icon: hal
+    icon_pack: ai
+    link: https://hal.science/search/index/q/*/authIdHal_s/vincent-gaudilliere
+  - icon: open-access
+    icon_pack: ai
+    link: https://orbilu.uni.lu/browse?type=author&value=Gaudilliere,%20Vincent%2050043311
 organizations:
   - name: SnT, University of Luxembourg
     url: https://cvi2.uni.lu/
