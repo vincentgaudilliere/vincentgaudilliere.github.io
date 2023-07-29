@@ -52,14 +52,22 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+        - title: Transfer & Innovation Engineer
+          company: Inria
+          company_url: https://www.inria.fr/
+          company_logo: inr_logo_rouge
+          location: Nancy, France
+          date_start: '2020-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Object-based Localization
+        - title: PhD Thesis
+          company: Inria
+          company_url: https://www.inria.fr/
+          company_logo: inr_logo_rouge
+          location: Nancy, France
+          date_start: '2016-12-01'
+          date_end: '2019-12-31'
+          description: Visual Localization in a World of Objects
         - title: Master Thesis / Work placement
           company: PIX4D
           company_url: https://www.pix4d.com/
