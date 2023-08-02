@@ -8,7 +8,9 @@ authors:
   - Miguel Ortiz del Castillo
   - Kassem Al Ismaeil
   - Djamila Aouada
-publication: CVPR 2022 - IEEE/CVF Conference on Computer Vision and Pattern Recognition
+publication: Proceedings of the IEEE/CVF Conference on Computer Vision and
+  Pattern Recognition (CVPR), 2022, pp. 6876-6886
+publication_short: CVPR 2022
 draft: false
 featured: false
 image:
