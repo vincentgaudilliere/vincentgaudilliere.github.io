@@ -10,7 +10,7 @@ authors:
   - Arunkumar Rathinam
   - Vincent Gaudillière
   - Djamila Aouada
-publication: Acta Astronautica, 2023
+publication: Acta Astronautica
 draft: false
 featured: false
 image:
