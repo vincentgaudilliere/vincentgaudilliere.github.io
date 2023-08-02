@@ -2,7 +2,7 @@
 title: "A Survey on Deep Learning-Based Monocular Spacecraft Pose Estimation:
   Current State, Limitations and Prospects"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Leo Pauly
   - Wassim Rharbaoui
