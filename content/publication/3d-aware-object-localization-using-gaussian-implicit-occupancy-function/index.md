@@ -10,7 +10,7 @@ authors:
   - Mohamed Adel Musallam
   - Djamila Aouada
 publication: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
-publication_short: IROS 2023
+publication_short: ""
 draft: false
 featured: false
 image:
