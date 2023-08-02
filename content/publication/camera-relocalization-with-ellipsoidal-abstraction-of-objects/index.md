@@ -7,6 +7,7 @@ authors:
   - Gilles Simon and Marie-Odile Berger
 publication: ISMAR 2019 - 18th IEEE International Symposium on Mixed and
   Augmented Reality, Oct 2019, Beijing, China.
+publication_short: ISMAR 2019
 draft: false
 featured: false
 image:
