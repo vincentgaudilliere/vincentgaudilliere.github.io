@@ -11,7 +11,7 @@ authors:
   - Djamila Aouada
 publication: IROS 2023 - 2023 IEEE/RSJ International Conference on Intelligent
   Robots and Systems, Oct 2023, Detroit, USA.
-publication_short: ""
+publication_short: IROS 2023
 draft: false
 featured: false
 image:
