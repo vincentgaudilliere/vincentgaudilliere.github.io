@@ -8,6 +8,7 @@ authors:
   - Gilles Simon and Marie-Odile Berger
 doi: https://doi.org/10.1007/s11263-023-01794-x
 publication: International Journal of Computer Vision
+publication_short: IJCV
 draft: false
 featured: false
 image:
