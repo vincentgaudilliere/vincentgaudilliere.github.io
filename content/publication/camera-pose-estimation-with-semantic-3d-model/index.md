@@ -7,6 +7,7 @@ authors:
   - Gilles Simon and Marie-Odile Berger
 publication: IROS 2019 - 2019 IEEE/RSJ International Conference on Intelligent
   Robots and Systems, Nov 2019, Macao, China
+publication_short: IROS 2019
 draft: false
 featured: false
 image:
