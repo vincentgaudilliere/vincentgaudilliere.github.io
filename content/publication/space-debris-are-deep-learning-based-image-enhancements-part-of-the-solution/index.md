@@ -1,6 +1,5 @@
 ---
-title: "Space Debris: Are Deep Learning-based Image Enhancements part of the
-  Solution?"
+title: "Space Debris: Are Deep Learning-based Image Enhancements part of the Solution?"
 publication_types:
   - "1"
 authors:
@@ -17,5 +16,16 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-03T10:42:46.264Z
+links:
+- name: ORbiLu
+  url: https://orbilu.uni.lu/handle/10993/55437
+url_pdf: 'https://orbilu.uni.lu/bitstream/10993/55437/1/ISCS2023_JAMROZIK_DLImageEnhance_Revision.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+date: 2023-04-15T12:00:00.000Z
 ---
