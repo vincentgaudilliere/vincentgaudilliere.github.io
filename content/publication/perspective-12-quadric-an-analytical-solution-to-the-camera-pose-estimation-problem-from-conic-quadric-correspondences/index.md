@@ -5,7 +5,8 @@ publication_types:
   - "4"
 authors:
   - Vincent Gaudillière
-  - Gilles Simon and Marie-Odile Berger
+  - Gilles Simon
+  - Marie-Odile Berger
 draft: false
 featured: false
 image:
