@@ -1,5 +1,5 @@
 ---
-title: Dispositif de traitement de prise de vue
+title: Dispositif de traitement de prise de vue [French]
 publication_types:
   - "8"
 authors:
