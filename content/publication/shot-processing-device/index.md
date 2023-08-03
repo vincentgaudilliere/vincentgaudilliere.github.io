@@ -8,7 +8,7 @@ authors:
   - Gilles Simon
 publication: US Patent App. 17/614,111.
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
