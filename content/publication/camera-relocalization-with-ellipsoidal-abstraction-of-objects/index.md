@@ -9,10 +9,10 @@ publication: ISMAR 2019 - 18th IEEE International Symposium on Mixed and
   Augmented Reality, Oct 2019, Beijing, China.
 publication_short: ISMAR 2019
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:28:09.133Z
+date: 2019-05-28T12:00:00.000Z
 ---
