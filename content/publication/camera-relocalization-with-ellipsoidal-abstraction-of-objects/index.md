@@ -4,7 +4,8 @@ publication_types:
   - "1"
 authors:
   - Vincent Gaudillière
-  - Gilles Simon and Marie-Odile Berger
+  - Gilles Simon
+  - Marie-Odile Berger
 publication: ISMAR 2019 - 18th IEEE International Symposium on Mixed and
   Augmented Reality, Oct 2019, Beijing, China.
 publication_short: ISMAR 2019
