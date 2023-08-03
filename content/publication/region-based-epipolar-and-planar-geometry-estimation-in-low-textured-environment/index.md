@@ -5,15 +5,16 @@ publication_types:
   - "1"
 authors:
   - Vincent Gaudillière
-  - Gilles Simon and Marie-Odile Berger
+  - Gilles Simon
+  - Marie-Odile Berger
 publication: ICIP 2018 - 25th IEEE International Conference on Image Processing,
   Oct 2018, Athens, Greece
 publication_short: ICIP 2018
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:30:47.620Z
+date: 2018-05-04T12:00:00.000Z
 ---
