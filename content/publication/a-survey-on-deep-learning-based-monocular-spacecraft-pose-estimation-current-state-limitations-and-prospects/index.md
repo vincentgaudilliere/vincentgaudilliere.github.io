@@ -12,10 +12,10 @@ authors:
   - Djamila Aouada
 publication: Acta Astronautica
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:10:44.287Z
+date: 2023-08-02T12:00:00.000Z
 ---
