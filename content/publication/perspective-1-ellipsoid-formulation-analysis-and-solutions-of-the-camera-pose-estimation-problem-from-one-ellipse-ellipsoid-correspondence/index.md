@@ -14,7 +14,7 @@ abstract: In computer vision, camera pose estimation from correspondences betwee
 draft: false
 featured: true
 image:
-  filename: "IJCV2023.eps"
+  filename: "IJCV2023.png"
   focal_point: Smart
   preview_only: false
 links:
