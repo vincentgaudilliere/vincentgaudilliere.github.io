@@ -13,5 +13,14 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-03T11:07:53.731Z
+links:
+url_pdf: 'https://patentimages.storage.googleapis.com/b7/72/bc/ced68c2004ae5f/US20220319035A1.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+date: 2022-10-06T12:00:00.000Z
 ---
