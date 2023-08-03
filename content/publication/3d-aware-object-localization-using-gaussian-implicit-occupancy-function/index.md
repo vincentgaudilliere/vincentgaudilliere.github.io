@@ -13,10 +13,10 @@ publication: IROS 2023 - 2023 IEEE/RSJ International Conference on Intelligent
   Robots and Systems, Oct 2023, Detroit, USA.
 publication_short: IROS 2023
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:16:34.965Z
+date: 2023-06-21T12:00:00.000Z
 ---
