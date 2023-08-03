@@ -16,7 +16,7 @@ abstract: To automatically localize a target object in an image is crucial for m
 draft: false
 featured: true
 image:
-  filename: "IROS2023"
+  filename: "IROS2023.png"
   focal_point: Smart
   preview_only: false
 links:
@@ -28,7 +28,7 @@ url_dataset: 'https://gitlab.uni.lu/cvi2/space/3d-aware-obj-loc'
 url_poster: ''
 url_project: 'https://cvi2.uni.lu/3d-aware-obj-loc/'
 url_slides: ''
-url_source: 'https://gitlab.uni.lu/cvi2/space/3d-aware-obj-loc'
+url_source: ''
 url_video: ''
 date: 2023-06-21T12:00:00.000Z
 ---
