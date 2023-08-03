@@ -19,7 +19,8 @@ links:
   url: https://inria.hal.science/hal-02429562/
 - name: Espacenet
   url: https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2020240124A1&KC=A1&FT=D&locale=fr_EP#
-- name: PATENTSCOPE
+#- name: PATENTSCOPE
+#  url: 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
