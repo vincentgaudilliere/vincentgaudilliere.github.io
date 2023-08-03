@@ -12,10 +12,10 @@ publication: Proceedings of the IEEE/CVF Conference on Computer Vision and
   Pattern Recognition (CVPR), 2022, pp. 6876-6886
 publication_short: CVPR 2022
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:22:32.013Z
+date: 2022-03-02T12:00:00.000Z
 ---
