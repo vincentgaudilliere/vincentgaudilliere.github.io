@@ -5,14 +5,15 @@ publication_types:
   - "2"
 authors:
   - Vincent Gaudillière
-  - Gilles Simon and Marie-Odile Berger
+  - Gilles Simon
+  - Marie-Odile Berger
 publication: IEEE Robotics and Automation Letters, 5(4):5189–5196, 2020
 publication_short: RA-L
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:27:02.818Z
+date: 2020-06-09T12:00:00.000Z
 ---
