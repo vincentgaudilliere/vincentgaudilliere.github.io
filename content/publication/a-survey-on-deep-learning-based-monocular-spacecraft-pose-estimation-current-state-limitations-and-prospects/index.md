@@ -15,7 +15,7 @@ abstract: Estimating the pose of an uncooperative spacecraft is an important com
 draft: false
 featured: true
 image:
-  filename: "AA.png"
+  filename: "AA2023.png"
   focal_point: Center
   preview_only: false
 links:
