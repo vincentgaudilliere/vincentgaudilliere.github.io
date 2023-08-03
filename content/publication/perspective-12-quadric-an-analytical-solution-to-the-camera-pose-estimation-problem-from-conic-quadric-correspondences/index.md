@@ -13,7 +13,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-https://hal.science/hal-02054882
 links:
 - name: HAL
   url: https://hal.science/hal-02054882
