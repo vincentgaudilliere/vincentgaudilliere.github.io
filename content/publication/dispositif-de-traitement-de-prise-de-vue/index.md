@@ -8,7 +8,7 @@ authors:
   - Gilles Simon
 publication: "France, N° de brevet: FR1905535"
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
