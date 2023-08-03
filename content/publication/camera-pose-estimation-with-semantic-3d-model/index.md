@@ -9,10 +9,10 @@ publication: IROS 2019 - 2019 IEEE/RSJ International Conference on Intelligent
   Robots and Systems, Nov 2019, Macao, China
 publication_short: IROS 2019
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-02T19:29:08.465Z
+date: 2019-06-20T12:00:00.000Z
 ---
