@@ -16,5 +16,16 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-08-03T10:56:01.119Z
+date: 2019-03-12T12:00:00.000Z
+links:
+- name: HAL
+  url: https://hal.science/hal-02148633
+url_pdf: https://hal.science/hal-02148633v1/document
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
