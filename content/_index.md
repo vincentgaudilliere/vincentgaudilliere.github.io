@@ -53,6 +53,14 @@ sections:
 #              * Analysing
 #              * Modelling
 #              * Deploying
+        - title: Research Associate
+          company: SnT, University of Luxembourg
+          company_url: https://www.uni.lu/snt-en/
+          company_logo: SnT_UL_logo2020_11.51.05
+          location: Luxembourg, Luxembourg
+          date_start: '2021-02-01'
+          date_end: 
+          description: Computer Vision for Space Applications
         - title: Transfer & Innovation Engineer
           company: Inria
           company_url: https://www.inria.fr/
