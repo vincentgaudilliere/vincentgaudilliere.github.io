@@ -15,6 +15,7 @@ draft: false
 featured: true
 image:
   filename: "IJCV2023.png"
+  focal_point: Center
   preview_only: false
 links:
 - name: ArXiv
