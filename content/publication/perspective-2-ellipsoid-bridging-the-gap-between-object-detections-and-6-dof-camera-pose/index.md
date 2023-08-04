@@ -11,7 +11,7 @@ publication: IROS 2020 - 2020 IEEE/RSJ International Conference on Intelligent
   Robots and Systems, Oct 2020, Las Vegas, USA.
 publication_short: IROS 2020
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
