@@ -10,7 +10,7 @@ authors:
 publication: IEEE Robotics and Automation Letters, 5(4):5189–5196, 2020
 publication_short: RA-L
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
