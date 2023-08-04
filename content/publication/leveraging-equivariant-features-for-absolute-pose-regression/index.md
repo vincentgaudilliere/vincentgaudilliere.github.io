@@ -15,8 +15,8 @@ abstract: While end-to-end approaches have achieved state-of-the-art performance
 draft: false
 featured: true
 image:
-  filename: ""
-  focal_point: Smart
+  filename: "CVPR2022.png"
+  focal_point: Center
   preview_only: false
 links:
 - name: CVF
