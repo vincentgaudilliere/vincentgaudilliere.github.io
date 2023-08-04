@@ -11,7 +11,7 @@ publication: ICIP 2018 - 25th IEEE International Conference on Image Processing,
   Oct 2018, Athens, Greece
 publication_short: ICIP 2018
 draft: false
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
