@@ -6,7 +6,7 @@ authors:
   - Marie-Odile Berger
   - Vincent Gaudillière
   - Gilles Simon
-publication: US Patent App. 17/614,111.
+publication: US Patent App. 17/614,111
 draft: false
 featured: false
 image:
