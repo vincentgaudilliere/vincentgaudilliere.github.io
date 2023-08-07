@@ -1,5 +1,6 @@
 ---
 title: 3D-Aware Object Localization using Gaussian Implicit Occupancy Function
+id: IROS23
 publication_types:
   - "1"
 authors:
