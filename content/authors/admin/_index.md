@@ -60,7 +60,7 @@ email: "vincent.gaudilliere@uni.lu"
 ---
 I am Research Associate at SnT, Interdisciplinary Center for Security, Reliability and Trust, University of Luxembourg. My research interests include visual localization, pose estimation and geometric deep learning. I am member of the Computer Vision, Imaging and Machine Intelligence Research Group (CVI2), in which part of my work is dedicated to space applications.
 
-<span style="color:gray; font-size:4em";>**News**</span>
+<span style="color:gray">**News**</span>
 - **[August 2, 2023]** Our survey on [deep learning-based spacecraft pose estimation](https://vincentgaudilliere.github.io/publication/a-survey-on-deep-learning-based-monocular-spacecraft-pose-estimation-current-state-limitations-and-prospects/) has been accepted for publication in [Acta Astronautica](https://www.sciencedirect.com/journal/acta-astronautica).
 - **[July 9, 2023]** I will be chairing the session [Deep Learning for Perception I](https://ras.papercept.net/conferences/conferences/IROS23/program/IROS23_ContentListWeb_2.html#tuat19) at [IROS 2023](https://ieee-iros.org/).
 - **[June 21, 2023]** Our paper [3D-Aware Object Localization using Gaussian Implicit Occupancy Function](publication/3d-aware-object-localization-using-gaussian-implicit-occupancy-function/) has been accepted for publication in the Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS 2023](https://ieee-iros.org/)).
