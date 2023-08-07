@@ -37,9 +37,6 @@ social:
 organizations:
   - name: SnT, University of Luxembourg
     url: https://cvi2.uni.lu/
-News:
-  - test1
-  - test2
 education:
   courses:
     - course: PhD in Computer Science
@@ -63,3 +60,6 @@ email: "vincent.gaudilliere@uni.lu"
 ---
 I am Research Associate at SnT, Interdisciplinary Center for Security, Reliability and Trust, University of Luxembourg. My research interests include visual localization, pose estimation and geometric deep learning. I am member of the Computer Vision, Imaging and Machine Intelligence Research Group (CVI2), in which part of my work is dedicated to space applications.
 {style="text-align: justify;"}
+News:
+  - test1
+  - test2
