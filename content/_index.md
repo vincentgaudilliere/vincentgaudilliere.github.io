@@ -87,22 +87,6 @@ sections:
           description: GPU-Accelerated Large Scale Surface Reconstruction
     design:
       columns: '2'
-- block: news
-    id: news
-    content:
-      title: News
-      text: blabla
-    design:
-      columns: '2'
-#      items:
-#        - description: Computer Vision for Space Applications
-#        - description: test2
-#description: |2-
-#              Responsibilities include:
-#
-#              * Analysing
-#              * Modelling
-#              * Deploying
 #  - block: accomplishments
 #    content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
