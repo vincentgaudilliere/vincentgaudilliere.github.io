@@ -37,6 +37,9 @@ social:
 organizations:
   - name: SnT, University of Luxembourg
     url: https://cvi2.uni.lu/
+News:
+  - test1
+  - test2
 education:
   courses:
     - course: PhD in Computer Science
