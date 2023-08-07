@@ -87,10 +87,10 @@ sections:
           description: GPU-Accelerated Large Scale Surface Reconstruction
     design:
       columns: '2'
-#- block: news
-#    id: news
-#    content:
-#      title: News
+- block: news
+    id: news
+    content:
+      title: News
 #      items:
 #        - description: Computer Vision for Space Applications
 #        - description: test2
