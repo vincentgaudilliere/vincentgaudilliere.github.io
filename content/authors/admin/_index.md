@@ -58,7 +58,7 @@ title: Vincent Gaudillière
 first_name: Vincent
 email: "vincent.gaudilliere@uni.lu"
 ---
-I am Research Associate at SnT, Interdisciplinary Center for Security, Reliability and Trust, University of Luxembourg. My research interests include visual localization, pose estimation and geometric deep learning. I am member of the Computer Vision, Imaging and Machine Intelligence Research Group (CVI2), in which part of my work is dedicated to space applications.
+I am Research Associate at [SnT, Interdisciplinary Center for Security, Reliability and Trust, University of Luxembourg](https://www.uni.lu/snt-en/). My research interests include visual localization, pose estimation and geometric deep learning. I carried out my PhD Thesis at the French [National Institute for Research in Digital Science and Technology (Inria)](https://www.inria.fr/). I am currently member of the [Computer Vision, Imaging and Machine Intelligence Research Group (CVI2)](https://cvi2.uni.lu/), in which part of my work is dedicated to space applications.
 
 <span style="font-size:25px; color:gray;">**News**</span>
 - <span style="font-size:18px">**[August 2, 2023]** Our survey on [Deep Learning-Based Monocular Spacecraft Pose Estimation: Current State, Limitations and Prospects](https://vincentgaudilliere.github.io/publication/a-survey-on-deep-learning-based-monocular-spacecraft-pose-estimation-current-state-limitations-and-prospects/) has been accepted for publication in [Acta Astronautica](https://www.sciencedirect.com/journal/acta-astronautica).</span>
