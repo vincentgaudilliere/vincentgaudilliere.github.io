@@ -11,8 +11,9 @@ authors:
   - Marcos Damian Perez
   - Michel Poucet
   - Djamila Aouada
-publication: 2021 IEEE International Conference on Image Processing, Grand Challenges
-publication_short: ICIP(GC) 2021
+doi: 10.1109/ICIPC53495.2021.9620184
+publication: 2021 IEEE International Conference on Image Processing Challenges
+publication_short: ICIPC 2021
 draft: false
 featured: false
 image:
@@ -24,7 +25,7 @@ links:
   url: https://orbilu.uni.lu/handle/10993/48797
 - name: ArXiv
   url: https://arxiv.org/abs/2104.05978
-- name: IEEE Xplore
+- name: IEEEXplore
   url: https://ieeexplore.ieee.org/document/9620184
 url_pdf: 'https://arxiv.org/pdf/2104.05978.pdf'
 url_code: ''
