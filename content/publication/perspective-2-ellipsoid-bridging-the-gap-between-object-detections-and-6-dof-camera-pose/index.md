@@ -16,5 +16,16 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+links:
+- name: HAL
+  url: https://hal.science/hal-02889146
+url_pdf: 'https://hal.science/hal-02889146v1/document'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 date: 2020-07-02T12:00:00.000Z
 ---
