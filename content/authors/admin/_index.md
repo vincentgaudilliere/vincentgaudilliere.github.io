@@ -62,7 +62,6 @@ I am Research Associate at [SnT, Interdisciplinary Center for Security, Reliabil
 
 <span style="font-size:120%; color:gray;">**News**</span>
 - <span style="font-size:90%">**[September 4, 2023]** Our article Lessons from a Space Lab - An Image Acquisition Perspective has been accepted for publication in [International Journal of Aerospace Engineering](https://www.hindawi.com/journals/ijae/).</span>
-<span style="font-size:120%; color:gray;">**News**</span>
 - <span style="font-size:90%">**[August 2, 2023]** Our survey on [Deep Learning-Based Monocular Spacecraft Pose Estimation: Current State, Limitations and Prospects](https://vincentgaudilliere.github.io/publication/a-survey-on-deep-learning-based-monocular-spacecraft-pose-estimation-current-state-limitations-and-prospects/) has been accepted for publication in [Acta Astronautica](https://www.sciencedirect.com/journal/acta-astronautica).</span>
 - <span style="font-size:90%">**[July 9, 2023]** I will be chairing the session [Deep Learning for Perception I](https://ras.papercept.net/conferences/conferences/IROS23/program/IROS23_ContentListWeb_2.html#tuat19) at [IROS 2023](https://ieee-iros.org/).</span>
 - <span style="font-size:90%">**[June 21, 2023]** Our paper [3D-Aware Object Localization using Gaussian Implicit Occupancy Function](publication/3d-aware-object-localization-using-gaussian-implicit-occupancy-function/) has been accepted for publication in the Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS 2023](https://ieee-iros.org/)).</span>
