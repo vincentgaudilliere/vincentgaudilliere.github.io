@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}. <a href="https://www.flaticon.com/free-icons/vision" title="vision icons">Vision icons created by wanicon - Flaticon</a>'
+    notice: '© {year} Vincent Gaudillière. This work is licensed under {license}. <a href="https://www.flaticon.com/free-icons/vision" title="vision icons">Vision icon created by wanicon - Flaticon</a>'
     license:
       enable: true
       allow_derivatives: false
