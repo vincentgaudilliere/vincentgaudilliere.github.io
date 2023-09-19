@@ -67,3 +67,6 @@ I am Research Associate at [SnT, Interdisciplinary Center for Security, Reliabil
 - <span style="font-size:90%">**[June 21, 2023]** Our paper [3D-Aware Object Localization using Gaussian Implicit Occupancy Function](publication/3d-aware-object-localization-using-gaussian-implicit-occupancy-function/) has been accepted for publication in the Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems ([IROS 2023](https://ieee-iros.org/)).</span>
 - <span style="font-size:90%">**[April 7, 2023]** Our paper [Perspective-1-Ellipsoid: Formulation, Analysis and Solutions of the Camera Pose Estimation Problem from One Ellipse-Ellipsoid Correspondence](https://vincentgaudilliere.github.io/publication/perspective-1-ellipsoid-formulation-analysis-and-solutions-of-the-camera-pose-estimation-problem-from-one-ellipse-ellipsoid-correspondence/) has been accepted for publication in [International Journal of Computer Vision](https://www.springer.com/journal/11263).</span>
 {style="text-align: justify;"}
+
+<span style="font-size:120%; color:gray;">Reviewing responsibilities</span>
+- <span style="font-size:90%">Computer vision conferences (CVPR, ICCV, ECCV, WACV, 3DV) and journals (CVIU, TVCG). Robotics conference (IROS, ICRA) and journals (RA-L). Image processing conference (ICIP).</span>
