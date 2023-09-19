@@ -69,4 +69,5 @@ I am Research Associate at [SnT, Interdisciplinary Center for Security, Reliabil
 {style="text-align: justify;"}
 
 <span style="font-size:120%; color:gray;">**Reviewing responsibilities**</span>
+
 <span style="font-size:90%"> Computer vision conferences (CVPR, ICCV, ECCV, WACV, 3DV) and journals (CVIU, TVCG). Robotics conference (IROS, ICRA) and journals (RA-L). Image processing conference (ICIP).</span>
