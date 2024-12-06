@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Vincent Gaudillière"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor (Computer Vision) at Loria (Inria, CNRS, Université de Lorraine). Previously Research Associate at SnT, University of Luxembourg, and PhD student at Inria."
   location         : "Nancy, France"
   employer         : "Université de Lorraine"
   uri              : # URL
@@ -44,13 +44,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "vincentgaudilliere"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-  gitlab           :
+  gitlab           : "https://gitlab.inria.fr/vgaudill"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "vincent-gaudilliere-b7965182"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "CvGaudilliere"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "CvGaudilliere"
 facebook:
   username               :
   app_id                 :
